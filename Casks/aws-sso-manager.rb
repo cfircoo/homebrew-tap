@@ -2,7 +2,7 @@ cask "aws-sso-manager" do
   version "2.0.0"
   sha256 "b2975a9a906dc9fe0218f87afc05bb4b346a3a376000dbf1c0e054a797154f39"
 
-  url "https://github.com/cfircoo/aws-sso-manager/releases/download/v#{version}/AWS%20SSO%20Manager-#{version}-arm64.dmg",
+  url "https://github.com/cfircoo/aws-sso-manager/releases/download/v2.0.0/AWS.SSO.Manager-2.0.0-arm64.dmg",
       verified: "github.com/cfircoo/aws-sso-manager/"
   name "AWS SSO Manager"
   desc "Desktop application that simplifies AWS Single Sign-On session management and role switching"
